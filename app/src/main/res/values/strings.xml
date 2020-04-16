@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bblog</string>
+    <string name="Author">Books Review\nName(or) Author.*</string>
+</resources>
